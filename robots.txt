@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaoyohchel.gito.ps/sitemap.xml
